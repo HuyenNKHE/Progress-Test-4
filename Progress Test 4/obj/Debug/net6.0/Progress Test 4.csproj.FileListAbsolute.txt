@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\Progress Test 4\Progress Test 4\bin\Debug\net6.0\Progress Test 4.exe
+C:\Users\DELL\Documents\Progress Test 4\Progress Test 4\bin\Debug\net6.0\Progress Test 4.deps.json
+C:\Users\DELL\Documents\Progress Test 4\Progress Test 4\bin\Debug\net6.0\Progress Test 4.runtimeconfig.json
+C:\Users\DELL\Documents\Progress Test 4\Progress Test 4\bin\Debug\net6.0\Progress Test 4.dll
+C:\Users\DELL\Documents\Progress Test 4\Progress Test 4\bin\Debug\net6.0\Progress Test 4.pdb
+C:\Users\DELL\Documents\Progress Test 4\Progress Test 4\obj\Debug\net6.0\Progress Test 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Progress Test 4\Progress Test 4\obj\Debug\net6.0\Progress Test 4.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Progress Test 4\Progress Test 4\obj\Debug\net6.0\Progress Test 4.AssemblyInfo.cs
+C:\Users\DELL\Documents\Progress Test 4\Progress Test 4\obj\Debug\net6.0\Progress Test 4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Progress Test 4\Progress Test 4\obj\Debug\net6.0\Progress Test 4.dll
+C:\Users\DELL\Documents\Progress Test 4\Progress Test 4\obj\Debug\net6.0\refint\Progress Test 4.dll
+C:\Users\DELL\Documents\Progress Test 4\Progress Test 4\obj\Debug\net6.0\Progress Test 4.pdb
+C:\Users\DELL\Documents\Progress Test 4\Progress Test 4\obj\Debug\net6.0\Progress Test 4.genruntimeconfig.cache
+C:\Users\DELL\Documents\Progress Test 4\Progress Test 4\obj\Debug\net6.0\ref\Progress Test 4.dll
